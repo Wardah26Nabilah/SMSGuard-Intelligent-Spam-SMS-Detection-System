@@ -107,14 +107,14 @@ Output:
 *Spam*
 
 
-**🎓 Use Cases**
+# 🎓 Use Cases
 - 🔐 Anti-spam filters
 - 📡 Telecom SMS filtering
 - 📱 Mobile security apps
 - 📊 Academic ML learning projects
 - 🛡️ Anti-phishing awareness systems
-- 🏆 Why SMSGuard?
 
+# 🏆 Why SMSGuard?
 - 📌 High accuracy
 - 📌 Fast and lightweight
 - 📌 Real-world applicability
