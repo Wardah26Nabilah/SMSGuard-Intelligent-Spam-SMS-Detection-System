@@ -134,3 +134,4 @@ If you like this repository, don’t forget to star ⭐ it on GitHub!
 Aspiring Data Scientist & Analyst
 - 📫 Email: bhanuseenu914@gmail.com
 - 🌐 GitHub: https://github.com/ayush13-0
+- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
