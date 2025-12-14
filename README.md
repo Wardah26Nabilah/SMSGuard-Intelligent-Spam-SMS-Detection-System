@@ -15,8 +15,6 @@
 </p> <p align="center"> <img src="https://img.shields.io/badge/Internship-CodSoft%20ML%20Internship-black?style=for-the-badge" />
 </p>
 
-A Machine Learning–Powered SMS Spam Classification Project
-
 # 🚀 Project Overview
 - SMSGuard is an advanced SMS spam detection system built using Machine Learning and Natural Language Processing (NLP).
 It analyzes text messages and predicts whether they are Spam or Ham (Genuine) using TF-IDF vectorization and multiple ML models like:
