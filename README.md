@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
+</p> <p align="center"> <img src="https://img.shields.io/badge/Internship-CodSoft%20ML%20Internship-black?style=for-the-badge" />
 </p>
 
 A Machine Learning–Powered SMS Spam Classification Project
